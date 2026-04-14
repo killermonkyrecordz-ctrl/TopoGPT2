@@ -5,7 +5,7 @@
 
 **TopoGPT-2** es un modelo de lenguaje de 25M de parámetros que implementa el marco **Grokkit HPU-Core** para estudiar la adquisición del lenguaje como un fenómeno de materia condensada. A diferencia de las arquitecturas tradicionales, este modelo está optimizado para alcanzar el estado de **Aislante Topológico**, donde las invariantes gramaticales y narrativas están protegidas por una brecha espectral (*spectral gap*).
 
-## 🧠 Core Concept: Grokking as Crystallization
+## Core Concept: Grokking as Crystallization
 
 Este proyecto cree en la premisa de que el "grokking" no es un artefacto estadístico, sino una **cristalización de operadores**. En lugar de memorizar un corpus, TopoGPT-2 mapea las reglas sintácticas del dataset **Tiny Stories** en un manifold geométrico, permitiendo una coherencia estructural superior con un número mínimo de parámetros.
 
@@ -16,7 +16,7 @@ El entrenamiento se monitoriza mediante variables de estado físico:
 - **$\kappa$ (Gradient Covariance):** Medida de la coherencia macroscópica del flujo de gradiente.
 - **$\hbar = 0.012$:** Constante de Incertidumbre del Aprendizaje que define el límite de optimización.
 
-## 📊 Live Status (Epoch 4 Snapshot)
+## Live Status (Epoch 4 Snapshot)
 
 | Metric | Value | Status |
 | :--- | :--- | :--- |
@@ -26,14 +26,14 @@ El entrenamiento se monitoriza mediante variables de estado físico:
 | **Berry Phase** | 865.51 | High Geometric Curvature |
 | **$T_{eff}$** | 14.6 | Cooling in progress |
 
-## 🚀 Zero-Shot Structural Transfer
+## Zero-Shot Structural Transfer
 
 Gracias al **Teorema de Invarianza Topológica**, este "setup" permite:
 1. **Escalamiento Zero-Shot:** Expandir el espacio de pesos (ej. de 25M a 250M) sin pérdida de información, preservando el *message passing* original.
 2. **Fusión de Nodos:** Superposición de modelos mediante interferencia constructiva de sus Hamiltonianos.
 3. **Resistencia al Olvido Catastrófico:** Protección de los "chunks" aprendidos mediante el aumento del radio del Toro topológico.
 
-## 🛠️ Reproducibility
+## Reproducibility
 
 ```bash
 # Clonar el framework AGI
