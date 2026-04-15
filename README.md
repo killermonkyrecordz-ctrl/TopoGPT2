@@ -36,11 +36,11 @@ Gracias al **Teorema de Invarianza Topológica**, este "setup" permite:
 ## Reproducibility
 
 ```bash
-# Clonar el framework AGI
-git clone [https://github.com/grisuno/agi.git](https://github.com/grisuno/agi.git)
+# Clonar el framework
+git clone [https://github.com/grisuno/TopoGPT2.git](https://github.com/grisuno/TopoGPT2.git)
 
 # Ejecutar entrenamiento con monitoreo espectral
-python train_topogpt.py --corpus tiny_stories --topology fixed --nodes 1
+python app.py --epochs 10 --prospect --probe-seeds 50 
 ```
 ```text
 @software{grisun0_grokkit_2026,
