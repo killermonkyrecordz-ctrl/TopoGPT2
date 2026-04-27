@@ -21,7 +21,7 @@ El entrenamiento se monitoriza mediante variables de estado físico:
 | Metric | Value | Status |
 | :--- | :--- | :--- |
 | **Phase State** | `[TOPOLOGICAL_INSULATOR]` | **Stable** |
-| **Val Loss** | 1.7773 | Best achieved |
+| **Val Loss** | 1.6933 | Best achieved |
 | **Winding Number** | 138 | Strong Convergence |
 | **Berry Phase** | 865.51 | High Geometric Curvature |
 | **$T_{eff}$** | 14.6 | Cooling in progress |
