@@ -55,6 +55,32 @@ python app.py --epochs 10 --prospect --probe-seeds 50
 
 [https://huggingface.co/grisun0/TopoGPT2/blob/main/model.safetensors](https://huggingface.co/grisun0/TopoGPT2/blob/main/model.safetensors)
 
+## DeepWiki
+
+[https://deepwiki.com/grisuno/TopoGPT2](https://deepwiki.com/grisuno/TopoGPT2)
+
+## Previous work
+
+### Algorithmic Induction via Structural Weight Transfer
+
+- [https://doi.org/10.5281/zenodo.18072858](https://doi.org/10.5281/zenodo.18072858)
+
+### From Boltzmann Stochasticity to Hamiltonian Integrability: Emergence of Topological Crystals and Synthetic Planck Constants
+
+- [https://doi.org/10.5281/zenodo.18407920](https://doi.org/10.5281/zenodo.18407920)
+
+### The Dirac Discrete Crystal
+
+- [https://doi.org/10.5281/zenodo.18810160](https://doi.org/10.5281/zenodo.18810160)
+
+### Schrödinger Topological Crystallization: Phase Space Discovery in Hamiltonian Neural Networks
+
+- [https://doi.org/10.5281/zenodo.18725428](https://doi.org/10.5281/zenodo.18725428)
+
+### Constraint Preservation in a Neural Quantum Simulator
+
+- [https://doi.org/10.5281/zenodo.18795537](https://doi.org/10.5281/zenodo.18795537)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
