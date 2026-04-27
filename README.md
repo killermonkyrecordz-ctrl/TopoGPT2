@@ -51,7 +51,7 @@ python app.py --epochs 10 --prospect --probe-seeds 50
   url = {[https://doi.org/10.5281/zenodo.18072859](https://doi.org/10.5281/zenodo.18072859)}
 }
 ```
-## Safetensors:
+## Safetensors
 
 [https://huggingface.co/grisun0/TopoGPT2/blob/main/model.safetensors](https://huggingface.co/grisun0/TopoGPT2/blob/main/model.safetensors)
 
